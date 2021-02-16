@@ -1,4 +1,4 @@
-# Manjaro ARM Raspberry Pi 3/3+/4/400
+# Manjaro ARM Pinebook
 [![iso_build](https://github.com/manjaro-arm/pinebook-images/workflows/image_build/badge.svg)](https://github.com/manjaro-arm/pinebook-images/actions)
 
 ## description
